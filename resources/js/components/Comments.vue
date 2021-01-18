@@ -2,6 +2,7 @@
     <div>
         <h3 class="text-center">Comments</h3><br/>
 
+        <!-- TODO: can be removed when start to work -->
         <div class="alert alert-warning">
             <p>Hello! This is the PeakData task for FE developer.</p>
             <p>You need to implement ability to add comments and comments on comments, and [even] comments on comments on comments.</p>
