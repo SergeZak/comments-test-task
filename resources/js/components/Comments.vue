@@ -17,8 +17,6 @@
                 <div class="comment-box">
                     <div class="comment-head">
                         <span class="date">2021-01-01</span>
-                        <span class="separator">|</span>
-                        <span class="author">Author Name</span>
                     </div>
                     <div class="comment-body">
                         <strong>COMMENT 1.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper tristique molestie.
@@ -33,8 +31,6 @@
                         <div class="comment-box">
                             <div class="comment-head">
                                 <span class="date">2021-01-01</span>
-                                <span class="separator">|</span>
-                                <span class="author">Author Name</span>
                             </div>
                             <div class="comment-body">
                                 <strong>COMMENT 1.1</strong> Duis eu lectus lectus. Quisque erat tortor, ultricies a libero vitae, malesuada ultricies sem.
@@ -49,8 +45,6 @@
                                 <div class="comment-box">
                                     <div class="comment-head">
                                         <span class="date">2021-01-01</span>
-                                        <span class="separator">|</span>
-                                        <span class="author">Author Name</span>
                                     </div>
                                     <div class="comment-body">
                                         <strong>COMMENT 1.1.1</strong> Duis eu lectus lectus. Quisque erat tortor, ultricies a libero vitae, malesuada ultricies sem.
@@ -66,8 +60,6 @@
                         <div class="comment-box">
                             <div class="comment-head">
                                 <span class="date">2021-01-01</span>
-                                <span class="separator">|</span>
-                                <span class="author">Author Name</span>
                             </div>
                             <div class="comment-body">
                                 <strong>COMMENT 1.2</strong> Aenean molestie, magna eget interdum mattis, ipsum mi ultricies mauris, vitae euismod dolor enim sed turpis.
